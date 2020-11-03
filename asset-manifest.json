@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/magicshop/static/css/main.ed9058e8.chunk.css",
+    "main.js": "/magicshop/static/js/main.e5455c4b.chunk.js",
+    "main.js.map": "/magicshop/static/js/main.e5455c4b.chunk.js.map",
+    "runtime-main.js": "/magicshop/static/js/runtime-main.bfe36d17.js",
+    "runtime-main.js.map": "/magicshop/static/js/runtime-main.bfe36d17.js.map",
+    "static/js/2.7504bf81.chunk.js": "/magicshop/static/js/2.7504bf81.chunk.js",
+    "static/js/2.7504bf81.chunk.js.map": "/magicshop/static/js/2.7504bf81.chunk.js.map",
+    "index.html": "/magicshop/index.html",
+    "static/css/main.ed9058e8.chunk.css.map": "/magicshop/static/css/main.ed9058e8.chunk.css.map",
+    "static/js/2.7504bf81.chunk.js.LICENSE.txt": "/magicshop/static/js/2.7504bf81.chunk.js.LICENSE.txt",
+    "static/media/domki_plansza.7d049580.PNG": "/magicshop/static/media/domki_plansza.7d049580.PNG",
+    "static/media/logooo.57702925.png": "/magicshop/static/media/logooo.57702925.png",
+    "static/media/produkcja.b06669e2.PNG": "/magicshop/static/media/produkcja.b06669e2.PNG",
+    "static/media/unity.fa502307.png": "/magicshop/static/media/unity.fa502307.png",
+    "static/media/wiecej_domkow.df79b837.PNG": "/magicshop/static/media/wiecej_domkow.df79b837.PNG",
+    "static/media/zasoby.3108565c.PNG": "/magicshop/static/media/zasoby.3108565c.PNG"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.bfe36d17.js",
+    "static/js/2.7504bf81.chunk.js",
+    "static/css/main.ed9058e8.chunk.css",
+    "static/js/main.e5455c4b.chunk.js"
+  ]
+}
