@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/magicshop/static/css/main.ed9058e8.chunk.css",
-    "main.js": "/magicshop/static/js/main.21320d30.chunk.js",
-    "main.js.map": "/magicshop/static/js/main.21320d30.chunk.js.map",
+    "main.js": "/magicshop/static/js/main.5091f669.chunk.js",
+    "main.js.map": "/magicshop/static/js/main.5091f669.chunk.js.map",
     "runtime-main.js": "/magicshop/static/js/runtime-main.bfe36d17.js",
     "runtime-main.js.map": "/magicshop/static/js/runtime-main.bfe36d17.js.map",
     "static/js/2.7504bf81.chunk.js": "/magicshop/static/js/2.7504bf81.chunk.js",
@@ -22,6 +22,6 @@
     "static/js/runtime-main.bfe36d17.js",
     "static/js/2.7504bf81.chunk.js",
     "static/css/main.ed9058e8.chunk.css",
-    "static/js/main.21320d30.chunk.js"
+    "static/js/main.5091f669.chunk.js"
   ]
 }
